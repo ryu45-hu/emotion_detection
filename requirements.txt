@@ -1,5 +1,5 @@
+numpy
+pickle
 streamlit
 tensorflow
-pandas
-numpy
-scikit-learn
+tensorflow.keras.preprocessing.sequence
