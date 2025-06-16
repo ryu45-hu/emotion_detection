@@ -1,4 +1,3 @@
 numpy
 streamlit
 tensorflow
-tensorflow.keras.preprocessing.sequence
