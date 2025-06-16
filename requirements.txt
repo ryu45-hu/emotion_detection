@@ -1,5 +1,4 @@
 numpy
-pickle
 streamlit
 tensorflow
 tensorflow.keras.preprocessing.sequence
